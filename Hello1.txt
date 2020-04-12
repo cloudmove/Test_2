@@ -1,0 +1,2 @@
+my new file contents1
+my new file contents2
